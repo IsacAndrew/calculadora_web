@@ -1,4 +1,4 @@
-# Calculadora Web
+# calculadora_web
 
 Este projeto é uma calculadora web que desenvolvi para praticar a comunicação entre uma interface HTML e um backend em Python com Flask. Meu objetivo principal foi entender o caminho completo de uma interação: a pessoa clica em um botão, o formulário envia os dados ao servidor, o Flask processa a ação e a página apresenta a resposta.
 
